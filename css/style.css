@@ -107,6 +107,21 @@ nav {
   font-size: 0.9rem;
 }
 
+.hero-venue {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-accent);
+}
+
+.hero-venue a {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  transition: color 0.15s;
+}
+
+.hero-venue a:hover { color: var(--color-accent-gold); }
+
 .hero-word {
   white-space: nowrap;
 }
