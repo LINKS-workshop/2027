@@ -368,6 +368,8 @@ footer {
   .page-col { width: 90%; }
   .hero-acronym { font-size: 3.5rem; }
   .hero-subtitle { font-size: 1.1rem; }
+  .hero-venue-sep { display: none; }
+  .hero-venue-place { display: block; }
   .nav-toggle { display: block; }
   .nav-links {
     display: none;
